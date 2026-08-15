@@ -7,7 +7,7 @@ A simple command-line interface (CLI) tool built in Python to fetch and display 
 
 ## Project URL
 
-* **Repository:** [https://github.com/mobx-100/GitHub-User-Activity---CLI](https://github.com/mobx-100/GitHub-User-Activity---CLI) 
+* **Roadmap.Sh:** [https://roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/github-user-activity) 
 
 ---
 
