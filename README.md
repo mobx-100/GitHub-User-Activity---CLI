@@ -1,6 +1,13 @@
+
 # GitHub User Activity CLI
 
 A simple command-line interface (CLI) tool built in Python to fetch and display recent activity for any public GitHub user directly in your terminal. This project uses only Python's standard library with **no external dependencies or frameworks**.
+
+---
+
+## Project URL
+
+* **Repository:** [https://github.com/mobx-100/GitHub-User-Activity---CLI](https://github.com/mobx-100/GitHub-User-Activity---CLI) *(or update this with your actual repository URL)*
 
 ---
 
@@ -20,13 +27,12 @@ A simple command-line interface (CLI) tool built in Python to fetch and display 
 
 ## Installation & Setup
 
-1. Clone or create a directory for the project:
-```bash
-mkdir github-activity
-cd github-activity
+1. Create a directory for the project and navigate into it:
+   ```bash
+   mkdir github-activity
+   cd github-activity
 
 ```
-
 
 2. Save the script code into a file named `github_activity.py`.
 
@@ -63,5 +69,9 @@ Fetching recent activity for kamranahmedse...
 
 ## How It Works
 
-* **API Endpoint:** Uses the public GitHub Events API endpoint: `[https://api.github.com/users/](https://api.github.com/users/)<username>/events`
+* **API Endpoint:** Uses the public GitHub Events API endpoint: `https://api.github.com/users/<username>/events`
 * **Limitations:** Note that the GitHub Events API has a hard retention limit of **30 days** (and a maximum cap of 300 recent events).
+
+```
+
+```
